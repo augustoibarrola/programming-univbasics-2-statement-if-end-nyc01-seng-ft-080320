@@ -14,4 +14,5 @@ if current_time / 2
   puts "Even!"
 elsif current_time / 3
   puts "Odd!"
+else 
 end
